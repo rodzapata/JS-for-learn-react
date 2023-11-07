@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=lVqHiTCIRQg&t=1063s
+
+1. creacion de funciones
+2. maniapulacion del DOM
+3. destruaayendo objetos
+
+
+https://www.youtube.com/watch?v=sKsNO-quEAw&t=295s
+1. interpolacion
