@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+  border: blue 1px solid;
+  justify-content: space-evenly;
+}
+
+.content > div {
+  border: black 3px solid;
+}
