@@ -18,3 +18,18 @@ const funcionExpresada = function () {
 };
 
 funcionExpresada();
+
+//llamar una funcion dentro de otra funcion
+let fn = () => {
+  console.log("prueba de funcion anonima");
+};
+
+fn();
+
+function some(f) {
+  console.log("algo antes de la funcion");
+  fn();
+  console.log("algo despues de la fucnion");
+}
+
+some();

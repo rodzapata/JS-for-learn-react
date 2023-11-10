@@ -21,6 +21,18 @@ function showDom(element, arr) {
   }
 }
 
-//
+// showDom("array1", weekday);
 
-showDom("array1", weekday);
+// un array puede contener numeros, cadenas y hasta objetos
+
+user = [
+  { name: "rodney", lastname: "zapata", age: "48" },
+  { name: "cecilia", lastname: "cantillo", age: "35" },
+];
+
+for (let e of user) {
+  console.log(`nombre: ${e.name} Apellido: ${e.lastname}`);
+}
+
+console.log("----recorrido con ForEcah ------");
+weekday.forEach((elem) => console.log(elem));

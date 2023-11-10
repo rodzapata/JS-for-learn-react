@@ -1,3 +1,4 @@
+javascrip para react
 https://www.youtube.com/watch?v=lVqHiTCIRQg&t=1063s
 
 1. creacion de funciones
@@ -12,4 +13,8 @@ https://www.youtube.com/watch?v=sKsNO-quEAw&t=295s
 curso de array en javascript
 https://www.youtube.com/watch?v=LYF4FeJyccc
 
+comparacion Javascript y C#
+https://www.youtube.com/watch?v=s2wlMg2u5lY
+
 https://codepen.io/pen/
+
